@@ -8,11 +8,11 @@ CREDENCIALES DE ACCESO
 Usuario administrador: chamba15@gmail.com
 Contraseña: 123456
 
-Usuario administrador: operador11@gmail.com
+Usuario Operador de produccion: operador11@gmail.com
 Contraseña: 123456
 
-Usuario administrador: inspector12@gmail.com
+Usuario Inspector de calidad: inspector12@gmail.com
 Contraseña: 123456
 
-Usuario administrador: jefedebodega10@gmail.com
+Usuario Jefe de bodega: jefedebodega10@gmail.com
 Contraseña: 123456
