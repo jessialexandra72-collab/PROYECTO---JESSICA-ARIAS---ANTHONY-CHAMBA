@@ -1,18 +1,19 @@
 DESPLIEGUE
 
-El sistema web integrado para la destilería está redesplegado con éxito.
-Enlace del sistema en la red: https://destileria-five.vercel.app/
+## EL SISTEMA WEB INTEGRADO PARA LA DESTILERÍA ESTÁ REDESPLEGADO CON ÉXITO.
 
-CREDENCIALES DE ACCESO
+##Enlace del sistema en la red: https://destileria-five.vercel.app/
+
+##CREDENCIALES DE ACCESO
 
 Usuario administrador: chamba15@gmail.com
 Contraseña: 123456
 
-Usuario Operador de produccion: operador11@gmail.com
+Usuario Operador de Producción: operador11@gmail.com
 Contraseña: 123456
 
-Usuario Inspector de calidad: inspector12@gmail.com
+Usuario Inspector de Calidad: inspector12@gmail.com
 Contraseña: 123456
 
-Usuario Jefe de bodega: jefedebodega10@gmail.com
+Usuario Jefe de Bodega: jefedebodega10@gmail.com
 Contraseña: 123456
