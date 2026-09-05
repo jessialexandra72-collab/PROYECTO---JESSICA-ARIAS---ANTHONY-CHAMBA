@@ -17,3 +17,17 @@ Contraseña: 123456
 
 Usuario Jefe de Bodega: jefedebodega10@gmail.com
 Contraseña: 123456
+
+
+
+
+BASE DE DATOS
+Supabase actúa como el almacén central del sistema de la destilería:
+➢
+Guarda todo en un solo lugar: Almacena los datos de proveedores, inventario, lotes y calidad en un motor PostgreSQL confiable.
+➢
+Conecta la aplicación con la información: Permite que el sistema lea y actualice el stock o los pedidos en tiempo real cada vez que un usuario realiza una acción.
+➢
+Asegura el acceso: Controla qué usuarios tienen permiso para ver o modificar la información crítica del proceso.
+
+<img width="858" height="505" alt="image" src="https://github.com/user-attachments/assets/88fe64ef-bb49-4439-89da-2916f1cdef30" />
